@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos del editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Graphviz
+*.gv.pdf
+*.gv.png
